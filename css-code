@@ -1,0 +1,56 @@
+.head{
+    border-color : orange;
+    background-color: orange;
+    color : orange;
+    width : 598px ;
+    height : 41px ;
+}
+.name{
+    color : white ;
+    width : 236px ;
+    height : 13px ;
+    left : -273px;
+    top :125px ;
+    display : flex ;
+    flex-direction: row;
+    flex-wrap : nowrap;
+    justify-content : space-evenly ;
+
+}
+.body{
+    border-color : lightgrey;
+    background-color: lightgray;
+    width: 598px; 
+    height: 335px ;
+}
+.overview{
+    border-color : orange;
+    color : white ;
+    background-color : orange;
+    width : 259px;
+    height : 91px ;
+    left: -248px ;
+    top: -185px ;
+}
+.painting{
+    border-color : orange;
+    background-color: orange ;
+    width :86px ;
+    height: 109px ;
+    display : flex;
+    flex-direction : row ;
+    flex-wrap: nowrap ;
+    justify-content: center ;
+}
+.registration{
+    border-color: lightgray;
+    background-color: orange;
+    width: 93px ;
+    height:13px ;
+}
+.footer{
+    border-color : gray ;
+    background-color: gray;
+    width : 598px ;
+    height: 88px ;
+}
